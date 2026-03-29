@@ -1,0 +1,38 @@
+.space {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+    min-width: 500px;
+}
+h1 {
+    text-align: left;
+}
+h4 {
+    text-align: left;
+    padding-bottom: 20px;
+}
+figure {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+figcaption {
+  background-color: rgb(231, 230, 230);
+  font-size: 14px;
+  border-top: 6px solid gold;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+
+}
+img {
+    width: 100%;
+    display: block;
+}
+footer {
+    padding-top: 20px;
+}
